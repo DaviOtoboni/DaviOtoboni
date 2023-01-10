@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviOtoboni
 - 👀 I’m interested in new job opportunities, where I will improve my skills more and more.
-- 🌱 I’m currently learning GIT.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on new projects.
 
 <!---
